@@ -10,7 +10,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=whitee)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)w
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  
 [![Bruno Dias's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcd15&show_icons=true&title_color=869EC1FF&text_color=ffffff&icon_color=869EC1FF&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
  
